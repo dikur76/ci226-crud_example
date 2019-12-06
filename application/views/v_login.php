@@ -7,7 +7,7 @@
 <form action="<?php echo site_url('login/login_act'); ?>" method="post">
 <table>
 	<tr>
-    	<td colspan="2" align="left"><strong>Form Login</strong>
+    	<td colspan="2" align="left"><strong>CRUD Example, Login</strong>
         </td>
     </tr>
 	<tr>
